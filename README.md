@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jefferson Escalona</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Wellezy Web](https://github.com/jeffcalona/wellezyFront)
+- 🔭 I’m currently working on My Business
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jeffcalona](https://github.com/jeffcalona)
 
-- 💬 Ask me about **React, javascript, anything related to frontend**
+- 💬 Ask me about **React, Next Js, design, photography anything If I don't know, I'll learn**
 
 - 📫 How to reach me **alohajeffo@gmail.com**
 
