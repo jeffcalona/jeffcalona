@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jeffcalona](https://github.com/jeffcalona)
 
-- 💬 Ask me about **React, Next Js, design, photography anything If I don't know, I'll learn**
+- 💬 Ask me about **React, Next Js, design, anything If I don't know, I'll learn**
 
 - 📫 How to reach me **alohajeffo@gmail.com**
 
